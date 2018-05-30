@@ -1,0 +1,16 @@
+D:\比赛文件夹\iTeach\三维unity游戏文件夹\连接kinect v2控制鼠标程序\ConnectKinect\ConnectKinect\bin\Debug\ConnectKinect.exe.config
+D:\比赛文件夹\iTeach\三维unity游戏文件夹\连接kinect v2控制鼠标程序\ConnectKinect\ConnectKinect\bin\Debug\ConnectKinect.exe
+D:\比赛文件夹\iTeach\三维unity游戏文件夹\连接kinect v2控制鼠标程序\ConnectKinect\ConnectKinect\bin\Debug\ConnectKinect.pdb
+D:\比赛文件夹\iTeach\三维unity游戏文件夹\连接kinect v2控制鼠标程序\ConnectKinect\ConnectKinect\bin\Debug\Microsoft.Kinect.dll
+D:\比赛文件夹\iTeach\三维unity游戏文件夹\连接kinect v2控制鼠标程序\ConnectKinect\ConnectKinect\bin\Debug\Microsoft.Kinect.xml
+D:\比赛文件夹\iTeach\三维unity游戏文件夹\连接kinect v2控制鼠标程序\ConnectKinect\ConnectKinect\obj\Debug\ConnectKinect.csprojResolveAssemblyReference.cache
+D:\比赛文件夹\iTeach\三维unity游戏文件夹\连接kinect v2控制鼠标程序\ConnectKinect\ConnectKinect\obj\Debug\MainWindow.g.cs
+D:\比赛文件夹\iTeach\三维unity游戏文件夹\连接kinect v2控制鼠标程序\ConnectKinect\ConnectKinect\obj\Debug\App.g.cs
+D:\比赛文件夹\iTeach\三维unity游戏文件夹\连接kinect v2控制鼠标程序\ConnectKinect\ConnectKinect\obj\Debug\ConnectKinect_MarkupCompile.cache
+D:\比赛文件夹\iTeach\三维unity游戏文件夹\连接kinect v2控制鼠标程序\ConnectKinect\ConnectKinect\obj\Debug\ConnectKinect_MarkupCompile.lref
+D:\比赛文件夹\iTeach\三维unity游戏文件夹\连接kinect v2控制鼠标程序\ConnectKinect\ConnectKinect\obj\Debug\MainWindow.baml
+D:\比赛文件夹\iTeach\三维unity游戏文件夹\连接kinect v2控制鼠标程序\ConnectKinect\ConnectKinect\obj\Debug\ConnectKinect.g.resources
+D:\比赛文件夹\iTeach\三维unity游戏文件夹\连接kinect v2控制鼠标程序\ConnectKinect\ConnectKinect\obj\Debug\ConnectKinect.Properties.Resources.resources
+D:\比赛文件夹\iTeach\三维unity游戏文件夹\连接kinect v2控制鼠标程序\ConnectKinect\ConnectKinect\obj\Debug\ConnectKinect.csproj.GenerateResource.Cache
+D:\比赛文件夹\iTeach\三维unity游戏文件夹\连接kinect v2控制鼠标程序\ConnectKinect\ConnectKinect\obj\Debug\ConnectKinect.exe
+D:\比赛文件夹\iTeach\三维unity游戏文件夹\连接kinect v2控制鼠标程序\ConnectKinect\ConnectKinect\obj\Debug\ConnectKinect.pdb
